@@ -1,7 +1,9 @@
 ## UI Screen Design
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/87361140/165644879-4a4ee1ba-87de-41bb-b800-7d533c0b5f4d.png">
 
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/87361140/165760963-fa11b7f7-1ba2-4fbb-88f6-d74c0e219be3.png">
+<img width="300" height="200" alt="image" src="https://user-images.githubusercontent.com/87361140/165760963-fa11b7f7-1ba2-4fbb-88f6-d74c0e219be3.png">
+
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/87361140/165777754-fc644418-c3d4-4ca1-a6bb-05ac608100dc.png">
 
 
 ## Use Case Descriptions
@@ -25,3 +27,16 @@ Step1-2에서 정렬 기준을 ‘평균 구매 만족도’로 바꿔 상품 �
 |4. 결제를 진행한다.||
 |Alternative Cources
 Step2-3은 포인트를 사용하지 않을 경우 생략할 수 있다.|
+
+3) 포인트 적립 기능
+
+3-1) 포인트 적립
+|Actor Action|System Response|
+|---|---|
+|1. 회원이 상품을 구매한다.|2. 구매가 완료되었다는 메세지를 띄우면서 적립된 포인트도 함께 출력한다.|
+
+3-2) 포인트 반환
+|Actor Action|System Response|
+|---|---|
+|1. 회원이 신청한 환불이 완료된다.| |
+|2. 환불한 내역을 확인한다.|3. 반환된 포인트가 포함된 환불 내역을 출력한다.|
