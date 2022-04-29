@@ -1,0 +1,175 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true,
+					"ownedViews": [
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAGAd0I0cPDT2rc=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"showShadow": false,
+							"left": 392,
+							"top": 408,
+							"width": 129,
+							"height": 64
+						},
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAGAdwDypPCpbVQ=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"showShadow": false,
+							"left": 384,
+							"top": 312,
+							"width": 129,
+							"height": 64
+						},
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAGAdv1o+fBb2yA=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 192,
+							"top": 416,
+							"width": 49,
+							"height": 50
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGAdv3ee/BnRC0=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "216:464;216:465"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGAdv393fBq9Yw=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "216:464;216:504"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGAdv5PjfBvfPg=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "184:480;249:480"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGAdv6TwfB2h8A=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "216:504;192:529"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGAdv7Vi/B+hKg=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "216:504;240:528"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGAdv+DD/CSrjY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;20;0",
+							"left": 192,
+							"top": 552,
+							"width": 60,
+							"height": 41,
+							"text": "회원"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGAdwBpMfCf/Vs=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "280:480;384:344"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGAdwCs8PCiroA=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;20;0",
+							"left": 400,
+							"top": 328,
+							"width": 97,
+							"height": 32,
+							"text": "회원 가입"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGAd0IsS/DON0o=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;20;0",
+							"left": 408,
+							"top": 424,
+							"width": 106,
+							"height": 32,
+							"text": "회원 탈퇴"
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAGAd0ORk/DhYbE=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "280:480;393:441"
+						}
+					]
+				}
+			]
+		}
+	]
+}
