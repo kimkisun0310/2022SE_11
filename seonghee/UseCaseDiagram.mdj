@@ -2918,9 +2918,9 @@
 											"font": "Arial;13;1",
 											"left": 37,
 											"top": 725,
-											"width": 87.6044921875,
+											"width": 113.706298828125,
 											"height": 13,
-											"text": "상품 환불 Event"
+											"text": "상품 환불 완료 Event"
 										},
 										{
 											"_type": "LabelView",
@@ -2953,7 +2953,7 @@
 									"font": "Arial;13;0",
 									"left": 32,
 									"top": 718,
-									"width": 97.6044921875,
+									"width": 123.706298828125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAcHCBEvtgmsY="
@@ -3037,7 +3037,7 @@
 							"containerChangeable": true,
 							"left": 32,
 							"top": 664,
-							"width": 97.6044921875,
+							"width": 123.706298828125,
 							"height": 80,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAcHCBEvtfDfQ="
@@ -3277,7 +3277,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 160,
+									"left": 173,
 									"top": 683,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3298,7 +3298,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 160,
+									"left": 173,
 									"top": 668,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3319,7 +3319,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 160,
+									"left": 173,
 									"top": 713,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -3340,7 +3340,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 155,
+									"left": 181,
 									"top": 683,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -3361,7 +3361,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 158,
+									"left": 184,
 									"top": 669,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -3382,7 +3382,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 151,
+									"left": 177,
 									"top": 710,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -3493,7 +3493,7 @@
 								"$ref": "AAAAAAGAcHCBEvteoFE="
 							},
 							"lineStyle": 1,
-							"points": "130:704;191:704",
+							"points": "156:704;191:704",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGAcHVGTBP/CzM="
@@ -4191,7 +4191,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "상품 환불 Event",
+					"name": "상품 환불 완료 Event",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
