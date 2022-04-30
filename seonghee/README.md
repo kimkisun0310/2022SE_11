@@ -1,10 +1,5 @@
 ## UI Screen Design
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/87361140/165644879-4a4ee1ba-87de-41bb-b800-7d533c0b5f4d.png">
-
-<img width="300" height="200" alt="image" src="https://user-images.githubusercontent.com/87361140/165760963-fa11b7f7-1ba2-4fbb-88f6-d74c0e219be3.png">
-
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/87361140/165777754-fc644418-c3d4-4ca1-a6bb-05ac608100dc.png">
-
+<img width="612" alt="image" src="https://user-images.githubusercontent.com/87361140/166088609-918c9ba7-f07c-4477-9162-f16f2404829a.jpeg">
 
 ## Use Case Descriptions
 
