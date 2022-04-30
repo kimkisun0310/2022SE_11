@@ -9,7 +9,7 @@
 
 ## Use case diagram
 
-![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/1e054dfd40bdcebd1d07d010c3db5387c9b9eb68/Untitled.png)
+![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/5eaf066cedcdf27c9fe6ac068f1e2d20a2e925a9/%ED%86%B5%EA%B3%84%EC%A0%95%EB%B3%B4.png)
 
 ![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/1e054dfd40bdcebd1d07d010c3db5387c9b9eb68/Untitled%201.png)
 
