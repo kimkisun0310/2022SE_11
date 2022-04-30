@@ -5,449 +5,6 @@
 	"ownedElements": [
 		{
 			"_type": "UMLModel",
-			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
-			"_parent": {
-				"$ref": "AAAAAAFF+h6SjaM2Hec="
-			},
-			"name": "Model",
-			"ownedElements": [
-				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Main",
-					"defaultDiagram": true,
-					"ownedViews": [
-						{
-							"_type": "EllipseView",
-							"_id": "AAAAAAGAd0I0cPDT2rc=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"showShadow": false,
-							"left": 552,
-							"top": 424,
-							"width": 129,
-							"height": 64
-						},
-						{
-							"_type": "EllipseView",
-							"_id": "AAAAAAGAdwDypPCpbVQ=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"showShadow": false,
-							"left": 544,
-							"top": 344,
-							"width": 129,
-							"height": 64
-						},
-						{
-							"_type": "EllipseView",
-							"_id": "AAAAAAGAdv1o+fBb2yA=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"left": 352,
-							"top": 448,
-							"width": 49,
-							"height": 50
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAdv3ee/BnRC0=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "376:496;376:497"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAdv393fBq9Yw=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "376:496;376:536"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAdv5PjfBvfPg=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "344:512;409:512"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAdv6TwfB2h8A=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "376:536;352:561"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAdv7Vi/B+hKg=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "376:536;400:560"
-						},
-						{
-							"_type": "UMLTextView",
-							"_id": "AAAAAAGAdv+DD/CSrjY=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;20;0",
-							"left": 352,
-							"top": 584,
-							"width": 60,
-							"height": 41,
-							"text": "회원"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAdwBpMfCf/Vs=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "440:512;544:376"
-						},
-						{
-							"_type": "UMLTextView",
-							"_id": "AAAAAAGAdwCs8PCiroA=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;20;0",
-							"left": 560,
-							"top": 360,
-							"width": 97,
-							"height": 32,
-							"text": "회원 가입"
-						},
-						{
-							"_type": "UMLTextView",
-							"_id": "AAAAAAGAd0IsS/DON0o=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;20;0",
-							"left": 568,
-							"top": 440,
-							"width": 106,
-							"height": 32,
-							"text": "회원 탈퇴"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAd0ORk/DhYbE=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "440:512;553:456"
-						},
-						{
-							"_type": "EllipseView",
-							"_id": "AAAAAAGAd8hlgPDn/HQ=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"showShadow": false,
-							"left": 557,
-							"top": 496,
-							"width": 129,
-							"height": 64
-						},
-						{
-							"_type": "UMLTextView",
-							"_id": "AAAAAAGAd8hlgPDo/ns=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;20;0",
-							"left": 584,
-							"top": 512,
-							"width": 92,
-							"height": 32,
-							"text": "로그인"
-						},
-						{
-							"_type": "EllipseView",
-							"_id": "AAAAAAGAd8iswPDyLVo=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"showShadow": false,
-							"left": 565,
-							"top": 576,
-							"width": 129,
-							"height": 64
-						},
-						{
-							"_type": "UMLTextView",
-							"_id": "AAAAAAGAd8iswPDzL6g=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;20;0",
-							"left": 584,
-							"top": 592,
-							"width": 106,
-							"height": 32,
-							"text": "로그아웃"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAd8jLk/D4eRM=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "440:512;559:528"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAd8kB7/D/nS4=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "440:512;564:605"
-						},
-						{
-							"_type": "EllipseView",
-							"_id": "AAAAAAGAd8phdvEzz1s=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"left": 840,
-							"top": 536,
-							"width": 49,
-							"height": 50
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAd8qqc/FBWag=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "864:584;864:621"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAd8q9qPFEmyU=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "832:592;893:593"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAd8rPlvFHJTc=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "864:616;840:644"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAd8rv7vFL+20=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "864:616;888:648"
-						},
-						{
-							"_type": "UMLTextView",
-							"_id": "AAAAAAGAd8t2GPFVwMA=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;18;0",
-							"left": 816,
-							"top": 656,
-							"width": 129,
-							"height": 52,
-							"text": "프로그램 자동 종료 event"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAd82H8/F5D1c=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "696:608;798:608"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAd83Ke/F+h5c=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "784:592;800:608;784:623"
-						},
-						{
-							"_type": "EllipseView",
-							"_id": "AAAAAAGAd+RODfGKVsg=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"showShadow": false,
-							"left": 546,
-							"top": 679,
-							"width": 159,
-							"height": 64
-						},
-						{
-							"_type": "UMLTextView",
-							"_id": "AAAAAAGAd+RODfGLfF8=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;20;0",
-							"left": 552,
-							"top": 695,
-							"width": 151,
-							"height": 32,
-							"text": "판매 의류 등록"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAd+TYSfGXpKI=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "440:512;545:704"
-						},
-						{
-							"_type": "EllipseView",
-							"_id": "AAAAAAGAd/F3o/GdqIk=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"showShadow": false,
-							"left": 547,
-							"top": 751,
-							"width": 159,
-							"height": 64
-						},
-						{
-							"_type": "UMLTextView",
-							"_id": "AAAAAAGAd/F3o/Geybs=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;20;0",
-							"left": 553,
-							"top": 767,
-							"width": 151,
-							"height": 32,
-							"text": "판매 의류 조회"
-						},
-						{
-							"_type": "EllipseView",
-							"_id": "AAAAAAGAd/GFU/GlCIc=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"showShadow": false,
-							"left": 555,
-							"top": 823,
-							"width": 159,
-							"height": 64
-						},
-						{
-							"_type": "UMLTextView",
-							"_id": "AAAAAAGAd/GFU/GmSyk=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;20;0",
-							"left": 561,
-							"top": 839,
-							"width": 151,
-							"height": 32,
-							"text": "판매 의류 수정"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAd/HYrPGt064=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "440:512;545:783"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAd/H0UPGxOJ4=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "400:600;400:600"
-						},
-						{
-							"_type": "FreelineEdgeView",
-							"_id": "AAAAAAGAd/IMT/G0szw=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"lineStyle": 1,
-							"points": "440:512;553:852"
-						}
-					]
-				}
-			]
-		},
-		{
-			"_type": "UMLModel",
 			"_id": "AAAAAAGAd/lC4fHNWds=",
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
@@ -517,7 +74,7 @@
 											"font": "Arial;13;0",
 											"left": -112,
 											"top": 160,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model1)"
 										},
@@ -697,7 +254,7 @@
 											"font": "Arial;13;0",
 											"left": -448,
 											"top": -432,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model1)"
 										},
@@ -916,7 +473,7 @@
 											"font": "Arial;13;0",
 											"left": -48,
 											"top": -64,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model1)"
 										},
@@ -1115,7 +672,7 @@
 											"font": "Arial;13;0",
 											"left": -48,
 											"top": -224,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model1)"
 										},
@@ -1298,9 +855,9 @@
 												"$ref": "AAAAAAGAd/uStfZAOIM="
 											},
 											"font": "Arial;13;1",
-											"left": 265,
+											"left": 265.5,
 											"top": 411.5,
-											"width": 84,
+											"width": 86,
 											"height": 13,
 											"text": "판매 의류 등록"
 										},
@@ -1314,7 +871,7 @@
 											"font": "Arial;13;0",
 											"left": -160,
 											"top": -240,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model1)"
 										},
@@ -1333,9 +890,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 260,
+									"left": 260.5,
 									"top": 404.5,
-									"width": 95.2236328125,
+									"width": 96,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAd/uStfZBge8="
@@ -1435,7 +992,7 @@
 							"containerChangeable": true,
 							"left": 240,
 							"top": 400,
-							"width": 134,
+							"width": 137,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAd/uStfZAOIM="
@@ -1513,7 +1070,7 @@
 											"font": "Arial;13;0",
 											"left": 256,
 											"top": -352,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model1)"
 										},
@@ -1696,9 +1253,9 @@
 												"$ref": "AAAAAAGAd/vGV/aa8Ds="
 											},
 											"font": "Arial;13;1",
-											"left": 265,
+											"left": 265.5,
 											"top": 451.5,
-											"width": 84,
+											"width": 86,
 											"height": 13,
 											"text": "판매 의류 조회"
 										},
@@ -1712,7 +1269,7 @@
 											"font": "Arial;13;0",
 											"left": 112,
 											"top": -80,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model1)"
 										},
@@ -1731,9 +1288,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 260,
+									"left": 260.5,
 									"top": 444.5,
-									"width": 95.2236328125,
+									"width": 96,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAd/vGV/abN/A="
@@ -1833,7 +1390,7 @@
 							"containerChangeable": true,
 							"left": 240,
 							"top": 440,
-							"width": 134,
+							"width": 137,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAd/vGV/aa8Ds="
@@ -1895,9 +1452,9 @@
 												"$ref": "AAAAAAGAd/vIgvbHBWg="
 											},
 											"font": "Arial;13;1",
-											"left": 265,
+											"left": 265.5,
 											"top": 499.5,
-											"width": 84,
+											"width": 86,
 											"height": 13,
 											"text": "판매 의류 수정"
 										},
@@ -1911,7 +1468,7 @@
 											"font": "Arial;13;0",
 											"left": 272,
 											"top": -144,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model1)"
 										},
@@ -1930,9 +1487,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 260,
+									"left": 260.5,
 									"top": 492.5,
-									"width": 95.2236328125,
+									"width": 96,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAd/vIgvbIPYk="
@@ -2032,7 +1589,7 @@
 							"containerChangeable": true,
 							"left": 240,
 							"top": 488,
-							"width": 134,
+							"width": 137,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAd/vIgvbHBWg="
@@ -2165,7 +1722,7 @@
 											"font": "Arial;13;1",
 											"left": 437,
 											"top": 389,
-											"width": 148.79541015625,
+											"width": 151.7470703125,
 											"height": 13,
 											"text": "프로그램 자동 종료 event"
 										},
@@ -2178,7 +1735,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -64,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model1)"
 										},
@@ -2198,7 +1755,7 @@
 									"font": "Arial;13;0",
 									"left": 432,
 									"top": 382,
-									"width": 158.79541015625,
+									"width": 161.7470703125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAd/3PKffcAk4="
@@ -2278,7 +1835,7 @@
 							"containerChangeable": true,
 							"left": 432,
 							"top": 312,
-							"width": 158.79541015625,
+							"width": 161.7470703125,
 							"height": 96,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAd/3PKffbygg="
@@ -2647,9 +2204,9 @@
 												"$ref": "AAAAAAGAeAA8oANl8lw="
 											},
 											"font": "Arial;13;1",
-											"left": 484.5,
+											"left": 485,
 											"top": 475.5,
-											"width": 140,
+											"width": 143,
 											"height": 13,
 											"text": "상품 리스트 페이지 제공"
 										},
@@ -2663,7 +2220,7 @@
 											"font": "Arial;13;0",
 											"left": 416,
 											"top": -160,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model1)"
 										},
@@ -2682,9 +2239,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 479.5,
+									"left": 480,
 									"top": 468.5,
-									"width": 150.83544921875,
+									"width": 153,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAeAA8oANmacY="
@@ -2784,7 +2341,7 @@
 							"containerChangeable": true,
 							"left": 448,
 							"top": 464,
-							"width": 213,
+							"width": 217,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAeAA8oANl8lw="
@@ -2828,7 +2385,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 411,
+									"left": 413,
 									"top": 446,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2848,9 +2405,9 @@
 										"$ref": "AAAAAAGAeAA8wgOePmk="
 									},
 									"font": "Arial;13;0",
-									"left": 386,
-									"top": 448,
-									"width": 55.65625,
+									"left": 387,
+									"top": 447,
+									"width": 55.72607421875,
 									"height": 13,
 									"alpha": 1.451686590356017,
 									"distance": 13.341664064126334,
@@ -2871,7 +2428,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 408,
+									"left": 410,
 									"top": 475,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2890,7 +2447,7 @@
 								"$ref": "AAAAAAGAd/vGV/aZsd4="
 							},
 							"lineStyle": 1,
-							"points": "374:464;447:471",
+							"points": "377:464;447:470",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGAeAA8wgOh4Hw="
@@ -2923,8 +2480,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 408,
-									"top": 473,
+									"left": 410,
+									"top": 474,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -2943,9 +2500,9 @@
 										"$ref": "AAAAAAGAeAENDgd79nE="
 									},
 									"font": "Arial;13;0",
-									"left": 384,
-									"top": 503,
-									"width": 55.65625,
+									"left": 386,
+									"top": 504,
+									"width": 55.72607421875,
 									"height": 13,
 									"alpha": -1.5892809716154244,
 									"distance": 16.0312195418814,
@@ -2966,8 +2523,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 411,
-									"top": 502,
+									"left": 413,
+									"top": 503,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -2985,7 +2542,7 @@
 								"$ref": "AAAAAAGAd/vIgvbGYhw="
 							},
 							"lineStyle": 1,
-							"points": "374:498;447:491",
+							"points": "377:498;447:492",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGAeAENDwd+qvs="
