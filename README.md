@@ -15,7 +15,7 @@
 
 ## UI screen design & use case description
 
-![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/55f5a726f4d674358baedf12ccaaae9e80cd2111/%ED%86%B5%EA%B3%84%EB%82%B4%EC%97%ADUI.jpg)
+![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/08a15f9b3063c20417ef76de916b6cec3de1a6a1/%ED%86%B5%EA%B3%84%EB%82%B4%EC%97%ADUI.jpg)
 
 | 유저 | 쇼핑몰 |
 | --- | --- |
