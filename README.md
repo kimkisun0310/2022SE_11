@@ -7,7 +7,7 @@
 
 ## Use case diagram
 
-![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/14f4f722d398e2a0defd5c1071357e35756e1104/%EA%B5%AC%EB%A7%A4.png)
+![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/fbcb6f873cd69d58f7e02134f2e0b83b296589ef/Untitled.png)
 
 ## UI screen design & Use case description
 
