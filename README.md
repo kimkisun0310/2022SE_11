@@ -16,6 +16,23 @@
    | 1. 회원이 자신의 기본정보와 ID/Password를 입력하여 가입을 진행한다. | |
    | | 2. 회원 가입 완료 메시지가 출력된다. |
 
+## Use Case Diagram
+
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/62105312/166081465-8d8d068e-fb0c-4cdd-b994-ccaed515949e.png">
+
+## UI Screen Design
+
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/62105312/166081484-6b4fd6c3-cc99-434b-ad3c-4471e7dd2106.jpg">
+
+## Use Case Descriptions
+
+2. 회원 탈퇴
+   | 회원 | 쇼핑몰 |
+   | --- | --- |
+   | 1. 회원 탈퇴를 진행한다. | |
+   | | 2. 해당 회원에게 상품이 하나도 없는지 확인한다.|
+   | | 3. 상품이 없을 경우 회원 탈퇴 완료 메시지를 출력한다. |
+
 # 2022SE_11
 
 ## 요구사항
