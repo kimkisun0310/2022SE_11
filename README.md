@@ -11,7 +11,7 @@
 
 ## Use case diagram
 
-![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/eef1fafe3db2e34afe7d919422e94707dbaecaf3/Untitled.png)
+![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/fbb447f94b63a5fb3f56076f3c5623d0c03bf023/delete.png)
 
 ![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/854ea264c768629cec2dd5d0c6813d6b54f91988/%ED%99%98%EB%B6%88%20event.png)
 
