@@ -16,7 +16,8 @@
 
 ## UI screen design & Use case Description
 
-![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/eef1fafe3db2e34afe7d919422e94707dbaecaf3/Untitled%202.png)
+
+![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/e994ee48ff7d1f4c0f9d0b728747892607685031/aa.png)
 
 ### 구매내역 조회
 
@@ -25,7 +26,9 @@
 | 1. 구매내역 조회 요청 |  |
 |  | 2. 구매내역 리스트 출력 |
 
-![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/e994ee48ff7d1f4c0f9d0b728747892607685031/aa.png)
+![Untitled](https://github.com/kimkisun0310/2022SE_11/blob/09da6ba811e86e05f508075da5c7833674adb97c/Untitled%203.png)
+
+
 
 ### 평가
 
