@@ -2,7 +2,7 @@
 
 ### Use case Diagram
 
-![Untitled](HW2%20Sign%20Up%20c099413b08294423b2502f488508e64c/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/58579386/168735590-d7a8f15c-9528-4ba8-bc28-1fbc2852f317.png)
 
 ### Use case Description
 
@@ -13,8 +13,8 @@
 
 ### Communication Diagram
 
-![Untitled](HW2%20Sign%20Up%20c099413b08294423b2502f488508e64c/Untitled%201.png)
+![Untitled](https://user-images.githubusercontent.com/58579386/168735595-5a7385d0-3b05-4114-b587-70bf345bea7d.png)
 
 ### Use case Class Diagram
 
-![Untitled](HW2%20Sign%20Up%20c099413b08294423b2502f488508e64c/Untitled%202.png)
+![Untitled](https://user-images.githubusercontent.com/58579386/168735600-8067c984-d8de-4038-8d70-a3448fd0df13.png)
