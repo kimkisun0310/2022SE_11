@@ -2,7 +2,7 @@
 
 ### Use case Diagram
 
-![Untitled](HW2%20sign%20in%20143b465f48bc4769a4d6a6bb6ad735fb/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/58579386/168734791-9b826372-1d92-4604-a60e-6dca678e26f3.png)
 
 ### Use case Description
 
@@ -13,8 +13,8 @@
 
 ### Communication Diagram
 
-![Untitled](HW2%20sign%20in%20143b465f48bc4769a4d6a6bb6ad735fb/Untitled%201.png)
+![Untitled](https://user-images.githubusercontent.com/58579386/168734833-7496b177-3d26-48d6-9bb5-5bc635ec47cb.png)
 
 ### Use case Class Diagram
 
-![Untitled](HW2%20sign%20in%20143b465f48bc4769a4d6a6bb6ad735fb/Untitled%202.png)
+![Untitled](https://user-images.githubusercontent.com/58579386/168734872-bdebd2f3-4c15-4db3-99b6-bb6f9246b643.png)
