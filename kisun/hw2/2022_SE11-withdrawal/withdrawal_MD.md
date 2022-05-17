@@ -2,7 +2,7 @@
 
 ### Use case Diagram
 
-![Untitled](HW2%20Withdrawal%20e9d55ab45fd94687b6b7d60ef0fe1d85/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/58579386/168735836-6ec400c7-e751-4e5c-a97a-b0391c598fd5.png)
 
 ### Use case Description
 
@@ -13,8 +13,8 @@
 
 ### Communication Diagram
 
-![Untitled](HW2%20Withdrawal%20e9d55ab45fd94687b6b7d60ef0fe1d85/Untitled%201.png)
+![Untitled](https://user-images.githubusercontent.com/58579386/168735845-86daed72-b01b-429d-8a5a-e9e63ed8f524.png)
 
 ### Use case Class Diagram
 
-![Untitled](HW2%20Withdrawal%20e9d55ab45fd94687b6b7d60ef0fe1d85/Untitled%202.png)
+![Untitled](https://user-images.githubusercontent.com/58579386/168735849-eb62c2ed-4541-4cda-8d1d-efba0475f2e5.png)
