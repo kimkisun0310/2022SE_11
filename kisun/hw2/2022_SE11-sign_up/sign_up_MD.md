@@ -13,8 +13,8 @@
 
 ### Communication Diagram
 
-![Untitled](https://user-images.githubusercontent.com/58579386/168735595-5a7385d0-3b05-4114-b587-70bf345bea7d.png)
+![Untitled](https://user-images.githubusercontent.com/58579386/169001639-1eb5fc25-8822-454d-87b6-cc6bfb441ea3.png)
 
 ### Use case Class Diagram
 
-![Untitled](https://user-images.githubusercontent.com/58579386/168735600-8067c984-d8de-4038-8d70-a3448fd0df13.png)
+![Untitled](https://user-images.githubusercontent.com/58579386/169001653-08dfbfc2-bb12-4d73-8a6b-2787121bb7b3.png)
